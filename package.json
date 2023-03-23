@@ -1,0 +1,23 @@
+{
+  "name": "analyasar",
+  "version": "0.1.0",
+  "description": "Analyze the size details of asar files, by file, including headers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "asar",
+    "electron"
+  ],
+  "author": "OpenAsar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenAsar/analyASAR.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OpenAsar/analyASAR/issues"
+  },
+  "homepage": "https://github.com/OpenAsar/analyASAR#readme"
+}
