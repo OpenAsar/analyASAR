@@ -1,11 +1,9 @@
 {
   "name": "analyasar",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Analyze the size details of asar files, by file, including headers",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [
     "asar",
     "electron"
@@ -19,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/OpenAsar/analyASAR/issues"
   },
-  "homepage": "https://github.com/OpenAsar/analyASAR#readme"
+  "homepage": "https://github.com/OpenAsar/analyASAR#readme",
+  "dependencies": {
+    "@electron/asar": "^3.2.3"
+  }
 }
